@@ -1,6 +1,7 @@
 *Assignment 3: Stack and Queue*
 
 The first function is an infix to postfix converter, which is reading an infix expression from the user. Conducting a Balanced Parentheses Check for {, }, (, ), [, ] symbols. Displaying a message for invalid expressions and converting valid ones to postfix notation. It considered operators: +, –, *, /, %.
+
 The second function is a queue where it inserts a new element at the rear of the queue. it can also remove and return the front element. Also capable of displaying the front element without removal and checking if the queue is empty. Addtionally, it can determine the total number of elements in the queue and return the size.
 
 Replit:
